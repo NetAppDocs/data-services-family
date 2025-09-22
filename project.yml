@@ -12,9 +12,9 @@ settings:
 sidebar:
   entries:
     - title: "NetApp Console"
-      url: ../data-services-setup-admin/index.html
-    - title: NetApp Data Services documentation
-      url: ../data-services-family/index.html
+      url: ../console-setup-admin/index.html
+    - title: Storage management documentation
+      url: ../storage-management-family/index.html
     - title: "Release notes"
       url: ../console-relnotes/index.html
     - title: "Backup and Recovery"
@@ -31,5 +31,7 @@ sidebar:
       url: ../data-services-ransomware-resilience/index.html 
     - title: "Replication"
       url: ../data-services-replication/index.html
+    - title: "Volume Caching"
+      url: ../data-services-volume-caching/index.html
     - title: Workloads
       url: ../workload-family
