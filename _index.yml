@@ -12,53 +12,65 @@ product-family:
       tags: protection
     - title: Governance
       tags: governance
+    - title: Storage management
+      tags: storage-management
     - title: Workloads
       tags: migrations
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
-      url: ../bluexp-relnotes/index.html
+      url: ../console-relnotes/index.html
       summary: "Learn what's new across NetApp Console and NetApp Data Services."
       tags: all
     - title: "NetApp Console"
       icon: ./media/icon-admin.png
-      url: ../bluexp-setup-admin/index.html
+      url: ../console-setup-admin/index.html
       summary: "Use the NetApp Console to administer identity and access management, deploy agents, and more."
       tags: all,connectors,iam
+    - title: "Storage management"
+      icon: ./media/icon-admin.png
+      url: ../storage-management-family/index.html
+      summary: "Manage your storage systems through NetApp Console."
+      tags: storage-management
     - title: "Backup and Recovery"
       icon: ./media/icon-backup.png
-      url: ../bluexp-backup-recovery/index.html
+      url: ../data-services-backup-recovery/index.html
       summary: "Protect and recover ONTAP data, Kubernetes volumes, and more on-premises and in the cloud."
       tags: all,aws,azure,gcp,protection
     - title: "Copy and Sync"
       icon: ./media/icon-sync.png
-      url: ../bluexp-copy-sync/index.html
+      url: ../data-services-copy-sync/index.html
       summary: "Simplify large data transfers across various storage types with an intelligent, unified solution."
       tags: all,aws,azure,gcp,mobility
     - title: "Cloud Tiering"
       icon: ./media/icon-tiering.png
-      url: ../bluexp-tiering/index.html
+      url: ../data-services-tiering/index.html
       summary: "Achieve continuously available capacity by automatically moving cold data to low-cost object storage."
       tags: all,aws,azure,gcp,mobility
     - title: "Data Classification"
       icon: ./media/icon-data-sense.png
-      url: ../bluexp-classification/index.html
+      url: ../data-services-classification/index.html
       summary: "Scan and classify data to achieve enhanced governance, efficiency, and privacy."
       tags: all,governance,aws,azure,gcp
     - title: "Disaster Recovery"
       icon: ./media/icon-disaster-recovery.png
-      url: ../bluexp-disaster-recovery/index.html
+      url: ../data-services-disaster-recovery/index.html
       tags: all,protection
       summary: "Execute a complete disaster protection solution for your VMware workloads."
     - title: "Ransomware Resilience"
       icon: ./media/icon-ransomware.png
-      url: ../bluexp-ransomware-protection/index.html 
+      url: ../data-services-ransomware-protection/index.html 
       summary: "Implement robust ransomware defense at the storage layer to protect data and automate workflows."
       tags: all,protection
     - title: "Replication"
       icon: ./media/icon-replication.png
-      url: ../bluexp-replication/index.html
+      url: ../data-services-replication/index.html
       summary: "Replicate data for backup, disaster recovery, and migration between on-premises and cloud ONTAP systems."
+      tags: all,mobility
+    - title: "Volume Caching"
+      icon: ./media/icon-volume-caching.png
+      url: ../data-services-volume-caching/index.html
+      summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes.."
       tags: all,mobility
     - title: Workloads
       icon: ./media/icon-workloads.png

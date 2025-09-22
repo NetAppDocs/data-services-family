@@ -13,7 +13,7 @@ sidebar:
   entries:
     - title: "NetApp Console"
       url: ../console-setup-admin/index.html
-    - title: Storage management documentation
+    - title: Storage management
       url: ../storage-management-family/index.html
     - title: "Release notes"
       url: ../console-relnotes/index.html
