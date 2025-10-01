@@ -1,5 +1,5 @@
 settings:
-  name: NetApp data services 
+  name: NetApp Data Services 
   platform: cloud
   search: console-relnotes,console-setup-admin,data-services-backup-recovery,data-services-copy-sync,data-services-classification,data-services-cloud-tiering,data-services-replication,data-services-operational-resiliency,data-services-digital-wallet,data-services-blob-storage,data-services-volume-caching,data-services-disaster-recovery,data-services-ransomware-protection,workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware,
   internal:
