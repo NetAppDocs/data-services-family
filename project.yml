@@ -1,13 +1,37 @@
 settings:
-  name: "Product Name"
-  search: 
+  name: NetApp Data Services 
+  platform: cloud
+  #search: console-relnotes,console-setup-admin,storage-management-cloud-volumes-ontap,storage-management-ontap-onprem,storage-management-azure-netapp-files,storage-management-fsx-ontap,storage-management-cloud-volumes-service-gcp,data-services-backup-recovery,data-services-copy-sync,data-services-classification,data-services-cloud-tiering,data-services-replication,console-automation,cloud-volumes-ontap-relnotes,storage-management-storagegrid,storage-management-e-series,storage-management-s3-storage,console-lifecycle-planning,console-license-subscriptions,storage-management-blob-storage,console-volume-caching,data-services-disaster-recovery,storage-management-blob-storage,storage-management-google-cloud-storage,netapp-automation,data-services-ransomware-protection,console-software-updates,console-alerts,workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware
   internal:
     pdf_enabled: false
+    lipi_enabled: true
   prod:
     pdf_enabled: false
-  # harmony_enabled: true
-
-sidebar: 
+    harmony_enabled: true
+    lipi_enabled: false
+sidebar:
   entries:
-  - title: #repeat title of family page
-    url: /index.html
+    - title: "NetApp Console"
+      url: ../console-setup-admin/index.html
+    - title: Storage management
+      url: ../storage-management-family/index.html
+    - title: "Release notes"
+      url: ../console-relnotes/index.html
+    - title: "Backup and Recovery"
+      url: ../data-services-backup-recovery/index.html
+    - title: "Cloud Tiering"
+      url: ../data-services-cloud-tiering/index.html
+    - title: "Copy and sync"
+      url: ../data-services-copy-sync/index.html
+    - title: "Data Classification"
+      url: ../data-services-classification/index.html
+    - title: "Disaster Recovery"
+      url: ../data-services-disaster-recovery/index.html
+    - title: "Ransomware Resilience"
+      url: ../data-services-ransomware-resilience/index.html 
+    - title: "Replication"
+      url: ../data-services-replication/index.html
+    - title: "Volume Caching"
+      url: ../data-services-volume-caching/index.html
+    - title: Workloads
+      url: ../workload-family
