@@ -24,7 +24,7 @@ sidebar:
     - title: "Copy and sync"
       url: ../data-services-copy-sync/index.html
     - title: "Data Classification"
-      url: ../data-services-classification/index.html
+      url: ../data-services-data-classification/index.html
     - title: "Disaster Recovery"
       url: ../data-services-disaster-recovery/index.html
     - title: "Ransomware Resilience"
