@@ -69,7 +69,7 @@ product-family:
       tags: all,mobility
     - title: "Volume Caching"
       icon: ./media/icon-volume-caching.png
-      url: ../data-services-volume-caching/index.html
+      url: ../console-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes.."
       tags: all,mobility
     - title: Workloads
