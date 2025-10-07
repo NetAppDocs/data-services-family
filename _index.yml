@@ -1,7 +1,7 @@
 product-family:
   title: NetApp data services
   lead: "Access NetApp data services through the NetApp Console to secure and protect your data infrastructure."
-  summary: "Access NetApp Data Services through the NetApp console to secure and protect your data infrastructure."
+  summary: "Access NetApp data services through the NetApp console to secure and protect your data infrastructure."
   sidebarlinks:
     - title: All
       tags: all
@@ -44,7 +44,7 @@ product-family:
       tags: all,aws,azure,gcp,mobility
     - title: "Cloud Tiering"
       icon: ./media/icon-tiering.png
-      url: ../data-services-tiering/index.html
+      url: ../data-services-cloud-tiering/index.html
       summary: "Achieve continuously available capacity by automatically moving cold data to low-cost object storage."
       tags: all,aws,azure,gcp,mobility
     - title: "Data Classification"
@@ -69,7 +69,7 @@ product-family:
       tags: all,mobility
     - title: "Volume Caching"
       icon: ./media/icon-volume-caching.png
-      url: ../data-services-volume-caching/index.html
+      url: ../console-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes.."
       tags: all,mobility
     - title: Workloads
