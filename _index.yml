@@ -49,7 +49,7 @@ product-family:
       tags: all,aws,azure,gcp,mobility
     - title: "Data Classification"
       icon: ./media/icon-data-sense.png
-      url: ../data-services-classification/index.html
+      url: ../data-services-data-classification/index.html
       summary: "Scan and classify data to achieve enhanced governance, efficiency, and privacy."
       tags: all,governance,aws,azure,gcp
     - title: "Disaster Recovery"
