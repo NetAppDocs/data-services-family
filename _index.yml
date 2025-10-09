@@ -26,7 +26,7 @@ product-family:
       icon: ./media/icon-admin.png
       url: ../console-setup-admin/index.html
       summary: "Use the NetApp Console to administer identity and access management, deploy agents, and more."
-      tags: all,connectors,iam
+      tags: all,console
     - title: "Storage management"
       icon: ./media/icon-admin.png
       url: ../storage-management-family/index.html
