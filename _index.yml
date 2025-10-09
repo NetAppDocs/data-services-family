@@ -12,6 +12,8 @@ product-family:
       tags: protection
     - title: Governance
       tags: governance
+    - title: NetApp Console
+      tags: console
     - title: Storage management
       tags: storage-management
     - title: Workloads
