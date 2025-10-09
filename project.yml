@@ -11,27 +11,5 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: "NetApp Console"
-      url: ../console-setup-admin/index.html
-    - title: Storage management
-      url: ../storage-management-family/index.html
-    - title: "Release notes"
-      url: ../console-relnotes/index.html
-    - title: "Backup and Recovery"
-      url: ../data-services-backup-recovery/index.html
-    - title: "Cloud Tiering"
-      url: ../data-services-cloud-tiering/index.html
-    - title: "Copy and sync"
-      url: ../data-services-copy-sync/index.html
-    - title: "Data Classification"
-      url: ../data-services-data-classification/index.html
-    - title: "Disaster Recovery"
-      url: ../data-services-disaster-recovery/index.html
-    - title: "Ransomware Resilience"
-      url: ../data-services-ransomware-resilience/index.html 
-    - title: "Replication"
-      url: ../data-services-replication/index.html
-    - title: "Volume Caching"
-      url: ../data-services-volume-caching/index.html
-    - title: Workloads
-      url: ../workload-family
+    - title: NetApp data services
+      url: /index.html
