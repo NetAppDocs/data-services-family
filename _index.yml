@@ -33,7 +33,7 @@ product-family:
       icon: ./media/icon-admin.png
       url: ../storage-management-family/index.html
       summary: "Manage your storage systems through NetApp Console."
-      tags: storage-management
+      tags: all, storage-management
     - title: "Backup and Recovery"
       icon: ./media/icon-backup.png
       url: ../data-services-backup-recovery/index.html
