@@ -17,7 +17,7 @@ product-family:
     - title: Storage management
       tags: storage-management
     - title: Workloads
-      tags: migrations
+      tags: workloads
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
