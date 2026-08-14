@@ -16,8 +16,6 @@ product-family:
       tags: console
     - title: Storage management
       tags: storage-management
-    - title: Workloads
-      tags: workloads
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
