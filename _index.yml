@@ -16,8 +16,6 @@ product-family:
       tags: console
     - title: Storage management
       tags: storage-management
-    - title: Workloads
-      tags: workloads
   tiles:
     - title: "Release notes"
       icon: ./media/icon-docs.png
@@ -74,11 +72,6 @@ product-family:
       url: ../console-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes.."
       tags: all,mobility
-    - title: Workloads
-      icon: ./media/icon-workloads.png
-      url: ../workload-family
-      summary: "Automate provisioning, governance, and lifecycle for FSx for ONTAP. Explore cost savings and advanced management."
-      tags: all,workloads
  
 
   
