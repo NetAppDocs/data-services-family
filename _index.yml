@@ -61,11 +61,12 @@ product-family:
       tags: all,mobility
     - title: "Volume Caching"
       url: ../console-volume-caching/index.html
-      summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes.."
+      summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
       tags: all,mobility
-    - title: Workloads
-      url: ../workload-family
-      summary: "Automate provisioning, governance, and lifecycle for FSx for ONTAP. Explore cost savings and advanced management."
+    - title: "Workload Factory"
+      icon: ./media/icon-workloads.png
+      url: ../data-services-workloads/index.html
+      summary: "Manage workloads running on Amazon FSx for NetApp ONTAP, Google Cloud NetApp Volumes, and Oracle Cloud Infrastructure NetApp Storage Service."
       tags: all,workloads        
  
 
