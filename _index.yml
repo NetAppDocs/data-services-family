@@ -20,64 +20,53 @@ product-family:
       tags: workloads      
   tiles:
     - title: "Release notes"
-      icon: ./media/icon-docs.png
       url: ../console-relnotes/index.html
       summary: "Learn what's new across NetApp Console and NetApp Data Services."
       tags: all
     - title: "NetApp Console"
-      icon: ./media/icon-admin.png
       url: ../console-setup-admin/index.html
       summary: "Use the NetApp Console to administer identity and access management, deploy agents, and more."
       tags: all,console
     - title: "Storage management"
-      icon: ./media/icon-admin.png
       url: ../storage-management-family/index.html
       summary: "Manage your storage systems through NetApp Console."
       tags: all, storage-management
     - title: "Backup and Recovery"
-      icon: ./media/icon-backup.png
       url: ../data-services-backup-recovery/index.html
       summary: "Protect and recover ONTAP data, Kubernetes volumes, and more on-premises and in the cloud."
       tags: all,aws,azure,gcp,protection
     - title: "Copy and Sync"
-      icon: ./media/icon-sync.png
       url: ../data-services-copy-sync/index.html
       summary: "Simplify large data transfers across various storage types with an intelligent, unified solution."
       tags: all,aws,azure,gcp,mobility
     - title: "Cloud Tiering"
-      icon: ./media/icon-tiering.png
       url: ../data-services-cloud-tiering/index.html
       summary: "Achieve continuously available capacity by automatically moving cold data to low-cost object storage."
       tags: all,aws,azure,gcp,mobility
     - title: "Data Classification"
-      icon: ./media/icon-data-sense.png
       url: ../data-services-data-classification/index.html
       summary: "Scan and classify data to achieve enhanced governance, efficiency, and privacy."
       tags: all,governance,aws,azure,gcp
     - title: "Disaster Recovery"
-      icon: ./media/icon-disaster-recovery.png
       url: ../data-services-disaster-recovery/index.html
       tags: all,protection
       summary: "Execute a complete disaster protection solution for your VMware workloads."
     - title: "Ransomware Resilience"
-      icon: ./media/icon-ransomware.png
       url: ../data-services-ransomware-resilience/index.html 
       summary: "Implement robust ransomware defense at the storage layer to protect data and automate workflows."
       tags: all,protection
     - title: "Replication"
-      icon: ./media/icon-replication.png
       url: ../data-services-replication/index.html
       summary: "Replicate data for backup, disaster recovery, and migration between on-premises and cloud ONTAP systems."
       tags: all,mobility
     - title: "Volume Caching"
-      icon: ./media/icon-volume-caching.png
       url: ../console-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
       tags: all,mobility
     - title: "Workload Factory"
       icon: ./media/icon-workloads.png
       url: ../data-services-workloads/index.html
-      summary: "Manage workloads running on Amazon FSx for NetApp ONTAP, Google Cloud NetApp Volumes, and Oracle Cloud Infrastructure Storage with NetApp."
+      summary: "Manage workloads running on Amazon FSx for NetApp ONTAP, Google Cloud NetApp Volumes, and Oracle Cloud Infrastructure NetApp Storage Service."
       tags: all,workloads        
  
 
